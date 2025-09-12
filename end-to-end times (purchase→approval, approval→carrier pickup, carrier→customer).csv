@@ -1,0 +1,2 @@
+median_purchase_to_approve,median_approve_to_carrier,median_carrier_to_customer,p75_purchase_to_approve,p75_approve_to_carrier,p75_carrier_to_customer,p90_purchase_to_approve,p90_approve_to_carrier,p90_carrier_to_customer
+0.34333332628011703,43.57541667111218,170.3943055551499,14.513888888061047,85.79833333566785,288.69722221791744,34.59194443747401,143.76249999180436,453.5691666640341
